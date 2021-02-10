@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498681819693",
+    "firebase_url": "https://awfar-9317c.firebaseio.com",
+    "project_id": "awfar-9317c",
+    "storage_bucket": "awfar-9317c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498681819693:android:150eae49d2de4dabdd7ea4",
+        "android_client_info": {
+          "package_name": "com.mohamedmedhat.awfarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498681819693-dsudmptfcc26u6qfskj3a94bmrgf2qsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjW-haqrdGTTbaYefmTeztwSodI36zSDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498681819693-dsudmptfcc26u6qfskj3a94bmrgf2qsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
